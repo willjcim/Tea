@@ -1,5 +1,5 @@
-#CSI 180 Semester Project
-##Tea
+# CSI 180 Semester Project
+## Tea
 
 This repository will be used to document my progress in creating a website that holds information about, and compares different types of tea
 
